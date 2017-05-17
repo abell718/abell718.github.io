@@ -586,6 +586,9 @@ h6,
 #msg-box8-c p {
   color: #fff;
 }
+#msg-box8-c .lead BLOCKQUOTE {
+  color: #ffffff;
+}
 #header3-d .mbr-section-title,
 #header3-d .mbr-section-subtitle {
   text-align: center;
