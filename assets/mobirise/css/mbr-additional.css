@@ -481,6 +481,9 @@ h6,
 #header1-1 .btn {
   font-size: 12px;
 }
+#header1-1 .mbr-section-title {
+  color: #ffffff;
+}
 #header3-3 .mbr-section-title,
 #header3-3 .mbr-section-subtitle {
   text-align: center;
