@@ -490,6 +490,7 @@ h6,
 }
 #content1-4 P {
   text-align: center;
+  font-size: 15px;
 }
 #features1-0 .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #2e2e2e;
@@ -588,6 +589,7 @@ h6,
 }
 #msg-box8-c .lead BLOCKQUOTE {
   color: #ffffff;
+  text-align: center;
 }
 #header3-d .mbr-section-title,
 #header3-d .mbr-section-subtitle {
