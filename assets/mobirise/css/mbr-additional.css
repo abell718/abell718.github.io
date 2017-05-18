@@ -501,12 +501,31 @@ h6,
 #features1-0 .mbr-cards-col:nth-child(even) .card-text {
   color: #ffffff;
 }
+#features1-0 .mbr-cards-col:nth-child(even) .card-subtitle {
+  color: #cccccc;
+}
 #social-buttons3-1 .mbr-section-title,
 #social-buttons3-1 .btn-social {
   color: #fff;
 }
-#contacts4-h STRONG {
-  color: #b8312f;
+#contacts5-p p,
+#contacts5-p .list-group-text,
+#contacts5-p .form-control-label {
+  color: #000;
+}
+#contacts5-p strong,
+#contacts5-p h4 {
+  color: #7e9b9f;
+}
+#contacts5-p form .form-control {
+  border-color: rgba(0, 0, 0, 0.2);
+  color: #565656;
+}
+#contacts5-p .mbr-footer-content li {
+  border-bottom: 1px dotted rgba(0, 0, 0, 0.1);
+}
+#contacts5-p .mbr-company .list-group-text::after {
+  border-bottom: 1px dotted rgba(0, 0, 0, 0.2);
 }
 #menu-8 .hide-buttons .nav-btn {
   display: none !important;
